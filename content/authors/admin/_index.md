@@ -14,51 +14,52 @@ organizations:
   url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NLP for voice-controlled agricultural robots, multi-robot planning, autonomous vehicle navigation in unknown environments with uncertainty and applied computer vision. I'm learning to use RL for multi-agent systems, high-level planning and DL for computer vision applications.
 
 # Interests to show in About widget
 interests:
+- Natural Language Processing
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Path Planning
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Agricultural and Biological Engineering
+    institution: University of Illinois, Urbana-Champaign, USA
+    year: May 2021-present
+  - course: Master of Engineering, Robotics
+    institution: University of Maryland, College Park, USA
+    year: 2019-2021
+  - course: Bachelor of Technology, Electrical Engineering
+    institution: Punjab Engineering College, Chandigarh, India
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-
-- icon: github
-  icon_pack: fab
-  link: 'https://github.com/kulbir-ahluwalia'
-
-- icon: youtube
-  icon_pack: fab
-  link: 'https://www.youtube.com/channel/UC0_ydDCBxOK0NqxlU4S1DoA/videos'
-
-- icon: linkedin
-  icon_pack: fab
-  link: 'https://www.linkedin.com/in/kulbir-ahluwalia/'
-
-- icon: google-scholar
-  icon_pack: ai
-  link: 'https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1'
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/kulbir-ahluwalia'
+  - icon: youtube
+    icon_pack: fab
+    link: 'https://www.youtube.com/channel/UC0_ydDCBxOK0NqxlU4S1DoA/videos'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/kulbir-ahluwalia/'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Kulbir_Singh_
 
 # - icon: twitter
 #   icon_pack: fab
@@ -72,7 +73,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kulbir@terpmail.umd.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
