@@ -43,28 +43,26 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+
+- icon: github
+  icon_pack: fab
+  link: 'https://github.com/kulbir-ahluwalia'
+
+- icon: youtube
+  icon_pack: fab
+  link: 'https://www.youtube.com/channel/UC0_ydDCBxOK0NqxlU4S1DoA/videos'
+
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/kulbir-ahluwalia/'
+
+- icon: google-scholar
+  icon_pack: ai
+  link: 'https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1'
+
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/kulbir-ahluwalia'
-
-- icon: youtube
-    icon_pack: fab
-    name: YouTube
-    link: 'https://www.youtube.com/channel/UC0_ydDCBxOK0NqxlU4S1DoA/videos'
-
-- icon: linkedin
-    icon_pack: fab
-    name: LinkedIn
-    link: 'https://www.linkedin.com/in/kulbir-ahluwalia/'
-
-- icon: google-scholar
-    icon_pack: ai
-    name: Google Scholar
-    link: 'https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
