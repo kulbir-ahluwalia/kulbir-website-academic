@@ -43,18 +43,28 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/kulbir-ahluwalia'
+
+- icon: youtube
+    icon_pack: fab
+    name: YouTube
+    link: 'https://www.youtube.com/channel/UC0_ydDCBxOK0NqxlU4S1DoA/videos'
+
 - icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+    icon_pack: fab
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/kulbir-ahluwalia/'
+
+- icon: google-scholar
+    icon_pack: ai
+    name: Google Scholar
+    link: 'https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,4 +84,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kulbir_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
