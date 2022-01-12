@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: mrrobot
+theme: ocean
 day_night: false
 font: ''
 font_size: L
@@ -30,8 +30,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.11488902982881, '
-  longitude: '-88.2267209832396'
+  latitude: '40.1148'
+  longitude: '-88.2267'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -42,6 +42,32 @@ contact_links:
   #   icon_pack: fab
   #   name: DM Me
   #   link: 'https://twitter.com/Twitter'
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/kulbir-ahluwalia'
+
+    icon: youtube
+    icon_pack: fab
+    name: YouTube
+    link: 'https://www.youtube.com/channel/UC0_ydDCBxOK0NqxlU4S1DoA/videos'
+
+    icon: linkedin
+    icon_pack: fab
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/kulbir-ahluwalia/'
+
+    icon: google-scholar
+    icon_pack: ai
+    name: Google Scholar
+    link: 'https://scholar.google.com/citations?user=rXq-2HYAAAAJ&hl=en&authuser=1'
+
+
+
+    
+
+
+
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -77,7 +103,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
