@@ -6,7 +6,7 @@
 # Appearance
 
 theme: ocean
-day_night: false
+day_night: true
 font: ''
 font_size: L
 
@@ -103,6 +103,10 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
+  - shell
+  - latex
+  - tex
 math: true
 diagram: false
 privacy_pack: false
