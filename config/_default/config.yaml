@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kulbir Singh Ahluwalia # Website name
-baseurl: 'https://kulbir-ahluwalia.github.io' # Website URL
+baseurl: 'https://kulbir-ahluwalia.github.io/' # Website URL
 copyright: '© 2022 Kulbir Singh Ahluwalia' # Footer text, e.g. '© {year} Me'
 
 ############################
