@@ -47,5 +47,7 @@ E=m
 
 <!-- /home/kulbir/Desktop/kulbir-website-academic/static/images/Dr_Tony_Stark.jpg -->
 
-![test_picture](static/images/Dr_Tony_Stark.jpg)
+![test_picture](/static_images/Dr_Tony_Stark.jpg)
+
+{{<figure library="true" src="/static_images/Dr_Tony_Stark.jpg" title="Test_picture" lightbox="true">}}
 
