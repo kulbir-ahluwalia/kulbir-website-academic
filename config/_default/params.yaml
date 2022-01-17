@@ -23,20 +23,19 @@ twitter: ''
 email: kulbir (at) terpmail (dot) umd (dot) edu
 # phone: please-email
 address:
-  street: W Main St
+  # street: W Main St
   city: Urbana
   region: Illinois
   postcode: '61801'
   country: United States
   country_code: US
-coordinates:
-  latitude: '40.1148'
-  longitude: '-88.2267'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# coordinates:
+#   latitude: "45.193407"
+#   longitude: "5.757778"
+# directions: ''
 # office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
+#   - ''
+# appointment_url: ''
 contact_links:
   # - icon: twitter
   #   icon_pack: fab

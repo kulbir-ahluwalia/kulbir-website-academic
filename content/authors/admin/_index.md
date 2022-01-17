@@ -14,7 +14,7 @@ organizations:
   url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP for voice-controlled agricultural robots, multi-robot planning, autonomous vehicle navigation in unknown environments with uncertainty and applied computer vision. I'm learning to use RL for multi-agent systems, high-level planning and DL for computer vision applications.
+bio: ''
 
 # Interests to show in About widget
 interests:
@@ -22,12 +22,13 @@ interests:
 - Artificial Intelligence
 - Computer Vision
 - Path Planning
+- Agricultural Robotics
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Agricultural and Biological Engineering
+  - course: PhD, Agricultural and Biological Engineering
     institution: University of Illinois, Urbana-Champaign, USA
     year: May 2021-present
   - course: Master of Engineering, Robotics
@@ -60,6 +61,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Kulbir_Singh_
+  - icon: cv
+    icon_pack: ai
+    link: 'uploads/Kulbir_CV.pdf'
 
 # - icon: twitter
 #   icon_pack: fab
@@ -73,12 +77,30 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kulbir@terpmail.umd.edu"
+# email: "kulbir@terpmail.umd.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-My research interests include NLP for voice-controlled agricultural robots, multi-robot planning, autonomous vehicle navigation in unknown environments with uncertainty and applied computer vision. I'm learning to use RL for multi-agent systems, high-level planning and DL for computer vision applications.
+<!-- in the Agricultural and Biological Engineering (ABE) Department 
+([DASLAB](http://daslab.illinois.edu/))
+ -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kulbir_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+Hi, I’m Kulbir Singh Ahluwalia, a Ph.D. student at the University of Illinois, Urbana-Champaign ([UIUC](https://illinois.edu/)). As a Graduate Research Assistant at the Distributed Autonomous Systems Laboratory (DASLAB), I am working with Professor Girish Chowdhary and Professor Julia Hockenmaier on voice-controlled CNC gardening robots using Natural Language Processing (NLP) and Machine Learning.
+
+<!-- at the Robotics Algorithms & Autonomous Systems (RAAS) Lab 
+https://raaslab.org/index.html-->
+
+I graduated with my Master’s in Robotics from the University of Maryland where I worked with Professor Pratap Tokekar and Professor Ryan Williams on “Pasture Monitoring in Simulated Environments”. My research at UMD involved coming up with novel approaches for simulating custom pasturelands reasonably fast using parallel processing and processing dense point clouds for height estimation of pastures. Our work for long-term Spatio-temporal prediction of pasture heights using deep learning and the use of multi-robot deployment policy for pasture monitoring has been published in [Agronomy](https://www.mdpi.com/2073-4395/11/11/2245) and under review at [IEEE Transactions on Automation Science and Engineering](https://arxiv.org/abs/2112.09203) respectively.
+
+Apart from research, I like meditating, gardening, singing and am learning to play the guitar. On the gardening side, I'm currently trying to clone my favourite orchid which I've had since 2.5 years now.
+
+ <!-- I'm good at cooking tasty dishes from whatever is available in the fridge. -->
+
+
+<!-- My research interests include NLP for voice-controlled agricultural robots, multi-robot planning, autonomous vehicle navigation in unknown environments with uncertainty and applied computer vision. I'm learning to use RL for multi-agent systems, high-level planning and DL for computer vision applications. -->
+
+
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kulbir_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
