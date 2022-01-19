@@ -14,6 +14,16 @@ categories: []
 date: '2020-01-01'
 lastmod: 2022-01-16T01:19:44-06:00
 featured: false
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11421/2557416/Reinforcement-learning-integrated-with-supervised-learning-for-training-of-near/10.1117/12.2557416.full?SSO=1'
+
 draft: false
 
 # Featured image

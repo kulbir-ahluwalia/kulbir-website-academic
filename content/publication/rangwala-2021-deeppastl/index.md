@@ -21,6 +21,18 @@ lastmod: 2022-01-16T01:19:43-06:00
 featured: false
 draft: false
 
+
+
+url_pdf: 'https://drive.google.com/file/d/1chm-GREu_F6giMr692lVPtRuJYVM_UcB/view'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: 'https://www.mdpi.com/2073-4395/11/11/2245'
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

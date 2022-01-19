@@ -15,6 +15,17 @@ lastmod: 2022-01-16T01:19:44-06:00
 featured: false
 draft: false
 
+url_pdf: 'https://drive.google.com/file/d/13tBo4hi6o6TkS_Gl4OcwjkOrUnuKTecq/view'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: 'https://www.osapublishing.org/opn/abstract.cfm?uri=opn-30-2-34'
+url_slides: ''
+url_source: ''
+url_video: ''
+# url_article: 'https://www.osapublishing.org/opn/abstract.cfm?uri=opn-30-2-34'
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
