@@ -2,7 +2,7 @@
 title: State estimation using Extended Kalman Filter 
 summary: Used EKF for GPS $+$ IMU $+$ Encoder sensor fusion
 tags:
-- Deep Learning
+- 'Controls'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

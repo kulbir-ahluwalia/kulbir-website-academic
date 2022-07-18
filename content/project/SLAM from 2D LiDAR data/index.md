@@ -2,7 +2,7 @@
 title: SLAM from 2D LiDAR data 
 summary: Used split and merge line extraction algorithm to extract line segments from LiDAR data
 tags:
-- Deep Learning
+- 'Path Planning'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

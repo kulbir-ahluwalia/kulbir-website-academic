@@ -2,7 +2,7 @@
 title: Persistent-Monitoring using Multi-Robot (UAV-UGV) Coordination} 
 summary: Persistent-Monitoring using Multi-Robot (UAV-UGV) Coordination}
 tags:
-- Deep Learning
+- 'Path Planning'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

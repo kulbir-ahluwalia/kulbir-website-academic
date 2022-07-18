@@ -2,7 +2,9 @@
 title: Autonomous Vaccine Delivery Robot
 summary: Designed an autonomous robot capable of navigating and localizing itself in a test arena using QR codes and arrows. It used a RGB camera, IMU, optical encoders and an ultrasonic sensor to detect, retrieve and transport user specified blocks from a collection zone to a drop-off zone.
 tags:
-- Computer Vision
+- 'Computer Vision'
+- 'Path Planning'
+- 'Controls'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
