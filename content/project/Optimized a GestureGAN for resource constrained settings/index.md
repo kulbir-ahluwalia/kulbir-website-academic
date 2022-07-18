@@ -2,7 +2,8 @@
 title: Optimized a GestureGAN for resource constrained settings 
 summary: Used MobileNet to optimize cross-view image generation with a 5.7X reduction in parameters.
 tags:
-- Deep Learning
+- 'Deep Learning'
+- 'Computer Vision'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

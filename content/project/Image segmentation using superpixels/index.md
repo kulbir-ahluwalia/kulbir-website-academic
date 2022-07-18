@@ -2,7 +2,8 @@
 title: Image segmentation using superpixels
 summary: Built a segmentation network using SLIC superpixels as input. A pretrained VGG16 network is used with its last few layers replaced by fully connected layers to classify superpixels into classes. (Accuracy 98\%)
 tags:
-- Deep Learning
+- 'Deep Learning'
+- 'Computer Vision'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
