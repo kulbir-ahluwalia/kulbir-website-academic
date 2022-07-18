@@ -28,15 +28,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD, Agricultural and Biological Engineering
+  - course: PhD, Computer Science
     institution: University of Illinois, Urbana-Champaign, USA
-    year: May 2021-present
+    year: 2022 - present
   - course: Master of Engineering, Robotics
     institution: University of Maryland, College Park, USA
-    year: 2019-2021
+    year: 2019 - 2021
   - course: Bachelor of Technology, Electrical Engineering
     institution: Punjab Engineering College, Chandigarh, India
-    year: 2015-2019
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -94,7 +94,7 @@ https://raaslab.org/index.html-->
 
 I graduated with my Master’s in Robotics from the University of Maryland where I worked with Professor Pratap Tokekar and Professor Ryan Williams on “Pasture Monitoring in Simulated Environments”. My research at UMD involved coming up with novel approaches for simulating custom pasturelands reasonably fast using parallel processing and processing dense point clouds for height estimation of pastures. Our work for long-term Spatio-temporal prediction of pasture heights using deep learning and the use of multi-robot deployment policy for pasture monitoring has been published in [Agronomy](https://www.mdpi.com/2073-4395/11/11/2245) and under review at [IEEE Transactions on Automation Science and Engineering](https://arxiv.org/abs/2112.09203) respectively.
 
-Apart from research, I like meditating, gardening, singing and am learning to play the guitar. On the gardening side, I'm currently trying to clone my favourite orchid which I've had since 2.5 years now.
+Apart from research, I like meditating, working out, gardening, singing and play the guitar once a month. On the gardening side, I'm currently trying to clone my favourite orchid phalaenopsis which I've had since 3 years now.
 
  <!-- I'm good at cooking tasty dishes from whatever is available in the fridge. -->
 

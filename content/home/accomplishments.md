@@ -69,6 +69,15 @@ item:
   title: Programming in Python
   url: ""
 
+- certificate_url: https://certificate.codingninjas.com/view/b3646fcb22a30a11
+  date_end: "2022-02-20"
+  date_start: "2021-10-20"
+  description: ""
+  organization: Coding Ninjas
+  organization_url: https://www.codingninjas.com/
+  title: Data Structures & Algorithms in Python
+  url: ""
+
 
 - certificate_url: 
   date_end: "2019-05-20"
