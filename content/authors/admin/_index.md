@@ -87,7 +87,7 @@ highlight_name: true
 ([DASLAB](http://daslab.illinois.edu/))
  -->
 
-Hi, I’m Kulbir Singh Ahluwalia, a Ph.D. student at the University of Illinois, Urbana-Champaign ([UIUC](https://illinois.edu/)). As a Graduate Research Assistant at the Distributed Autonomous Systems Laboratory (DASLAB), I am working with Professor Girish Chowdhary and Professor Julia Hockenmaier on voice-controlled CNC gardening robots using Natural Language Processing (NLP) and Machine Learning.
+Hi, I’m Kulbir Singh Ahluwalia, a Ph.D. student at the University of Illinois, Urbana-Champaign ([UIUC](https://illinois.edu/)). As a Graduate Research Assistant at the Distributed Autonomous Systems Laboratory (DASLAB), I am working with Professor Girish Chowdhary and Professor Julia Hockenmaier on natural language grounding for CNC controlled robots and mobile robots. 
 
 <!-- at the Robotics Algorithms & Autonomous Systems (RAAS) Lab 
 https://raaslab.org/index.html-->
