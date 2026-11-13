@@ -1,4 +1,4 @@
-> Archived 2022 version of my website, kept for reference. The text reflects 2022. Current website: https://kulbir-singh-ahluwalia.com/ . Since November 2026 I have been advised by Prof. Katie Driggs-Campbell (Human-Centered Autonomy Lab).
+> Archived 2022 version of my website, kept for reference. The text reflects 2022. Current website: https://kulbir-singh-ahluwalia.com/ . Since November 2026 I have been advised by Prof. Katherine Driggs-Campbell (Human-Centered Autonomy Lab).
 
 # Making your own website using GitHub pages
 
