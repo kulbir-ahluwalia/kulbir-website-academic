@@ -1,3 +1,5 @@
+> Archived 2022 version of my website, kept for reference. The text reflects 2022. Current website: https://kulbir-singh-ahluwalia.com/ . Since November 2026 I have been advised by Prof. Katie Driggs-Campbell (Human-Centered Autonomy Lab).
+
 # Making your own website using GitHub pages
 
 We will be using Hugo to generate the static website. The Theme that we will be using is Academic kickstarter.
